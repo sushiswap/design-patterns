@@ -1,0 +1,12 @@
+{
+  "mochaExplorer.files": "test/**/*.{j,t}s",
+  "mochaExplorer.fullTrace": true,
+  "mochaExplorer.exit": true,
+  "solidity.compileUsingRemoteVersion": "v0.8.11+commit.d7f03943",
+  "solidity.compilerOptimization": 200,
+  "solidity.linter": "solhint",
+  "solidity.packageDefaultDependenciesContractsDirectory": "",
+  "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+  "solidity.validationDelay": 1500,
+  "solidity.packageDefaultDependenciesDirectory": "node_modules"
+}
